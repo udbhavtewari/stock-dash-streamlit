@@ -1,1 +1,0 @@
-streamlit==0.76.0html4lib==1.1base64=1.1.4yfinance==0.1.55
