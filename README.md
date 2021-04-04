@@ -6,5 +6,5 @@ Following libraries have been used for this project
 - html5lib
 - yfinance
 -  base64
-**Link to the web application - https://stock-dashb.herokuapp.com/** 
+-  **Link to the web application - https://stock-dashb.herokuapp.com/** 
 
