@@ -6,3 +6,4 @@ Following libraries have been used for this project
 3) html5lib
 4) yfinance
 5) base64
+Link to the web application - https://stock-dashb.herokuapp.com/
