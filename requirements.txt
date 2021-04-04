@@ -1,4 +1,0 @@
-pandas==1.2.1
-html5lib==1.1
-streamlit==0.76.0
-yfinance==0.1.55
